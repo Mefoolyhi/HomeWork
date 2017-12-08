@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW</string>
+    <string name="but1_name">Квадратные</string>
+    <string name="but2_name">Линейные</string>
+    <string name="txt_above_line">Введите коэффициенты в выражение ниже, если в вашем уравнении какой либо коэффициент отсутсвует, оставьте поле пустым</string>
+    <string name="txt_for_square">Введите коэффициенты в выражение ниже, если в вашем уравнении какой либо коэффициент отсутсвует, оставьте поле пустым. Если слагаемое "х" отсутствует, коэффициент поставьте 0 </string>
+    <string name="btn_go">Считать</string>
+    <string name="btn_share">Поделиться</string>
+</resources>
